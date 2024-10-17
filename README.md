@@ -1,4 +1,5 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+### Date:
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
@@ -57,14 +58,12 @@ print('connection closed')
 ```
 
 ## OUTPUT
+### Client:
+![client3c](https://github.com/VincyJovitha01/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/147121113/019749c0-d616-478b-9d64-c6f6f554f9df)
 
-### SERVER
+### Server:
+![server3c](https://github.com/VincyJovitha01/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/147121113/0435a3d2-c768-4157-933a-af73ba1ffa3e)
 
-![image](https://github.com/user-attachments/assets/edc09698-d35b-40c9-8ea9-ac4be4c78af4)
-
-### CLIENT
-
-![image](https://github.com/user-attachments/assets/555ef759-d44a-4a31-936e-5c04b046fed1)
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
